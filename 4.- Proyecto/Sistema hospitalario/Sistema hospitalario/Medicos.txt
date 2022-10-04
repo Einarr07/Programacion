@@ -1,0 +1,37 @@
+Alex Garcia
+Medicina General
+357159634
+58
+0986523174
+alex@gmail.com
+Antonio Perez
+Pediatria
+125391210
+45
+09986542
+Antonio@epn.edu.ec
+Jordi Morales
+Pediatria
+1753912124
+56
+0998654712
+Jordi@epn.edu.ec
+Juan Perez
+Medicina General
+123456811
+30
+0981856843
+arielgal@gmail.com
+Mario Castillo
+Cardiologia
+123456789
+35
+0981842368
+mario@gmail.com
+Ximena Suarez
+Cardiologia
+1710484310
+45
+0987456123
+gutierrez@gmail.com
+XXX

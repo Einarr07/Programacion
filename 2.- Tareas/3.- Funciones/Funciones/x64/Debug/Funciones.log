@@ -1,0 +1,4 @@
+﻿  Funciones.cpp
+C:\Users\mateo\Programacion\repos\Funciones\Funciones\Funciones.cpp(200,9): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\mateo\Programacion\repos\Funciones\Funciones\Funciones.cpp(220,33): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  Funciones.vcxproj -> C:\Users\mateo\Programacion\repos\Funciones\x64\Debug\Funciones.exe

@@ -1,0 +1,3 @@
+﻿  Archivo.cpp
+C:\Users\mateo\Programacion\repos\Archivo\Archivo\Archivo.cpp(17,10): warning C4101: 'aux': variable local sin referencia
+  Archivo.vcxproj -> C:\Users\mateo\Programacion\repos\Archivo\x64\Debug\Archivo.exe

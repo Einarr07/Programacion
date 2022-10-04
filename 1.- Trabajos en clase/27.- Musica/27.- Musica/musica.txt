@@ -1,0 +1,26 @@
+1
+La bamba
+Los Lobos
+jarochos
+1983
+2
+Despacito
+Luis Fonsi
+Regueton
+2017
+3
+Enseñame a olvidar
+Aventura
+Bachata
+2010
+4
+Los Infieles
+Aventura
+Bachata
+2012
+5
+Estos celos
+Vicente Fernandez
+Rancheras
+2012
+-1

@@ -1,0 +1,13 @@
+camaleon
+1245
+150
+mamifero
+cebra
+1256
+60.8
+mamifero
+camaron
+456
+15
+peces
+XXX

@@ -1,0 +1,9 @@
+﻿  Arreglos.cpp
+C:\Users\mateo\Programacion\repos\2.- Tareas\4.- Arreglos\Arreglos\Arreglos.cpp(121,23): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\mateo\Programacion\repos\2.- Tareas\4.- Arreglos\Arreglos\Arreglos.cpp(182,31): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\mateo\Programacion\repos\2.- Tareas\4.- Arreglos\Arreglos\Arreglos.cpp(186,31): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\mateo\Programacion\repos\2.- Tareas\4.- Arreglos\Arreglos\Arreglos.cpp(168,9): warning C4101: 'calif': variable local sin referencia
+C:\Users\mateo\Programacion\repos\2.- Tareas\4.- Arreglos\Arreglos\Arreglos.cpp(231,26): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\mateo\Programacion\repos\2.- Tareas\4.- Arreglos\Arreglos\Arreglos.cpp(299,23): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\mateo\Programacion\repos\2.- Tareas\4.- Arreglos\Arreglos\Arreglos.cpp(346,9): warning C4101: 'n': variable local sin referencia
+  Arreglos.vcxproj -> C:\Users\mateo\Programacion\repos\2.- Tareas\4.- Arreglos\x64\Debug\Arreglos.exe

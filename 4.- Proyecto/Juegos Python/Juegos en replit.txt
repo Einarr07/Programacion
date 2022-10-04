@@ -1,0 +1,9 @@
+Integrantes: 
+Congo Sebastian
+Flores Dilan
+
+- Juego del Ahorcado
+https://replit.com/@dilanflores/Juego-Ahorcado#main.py
+
+- Juego de la culebrita
+https://replit.com/@SebasCongo/Game-snake#main.py
